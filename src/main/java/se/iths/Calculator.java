@@ -23,6 +23,8 @@ public class Calculator {
         System.out.println("2 - 2 is " + new Calculator().substrack(2, 2) + ".");
         System.out.println("2 * 2 is " + new Calculator().multipy(2, 2) + ".");
         System.out.println("2 / 2 is " + new Calculator().divide(2, 2) + ".");
+        System.out.println("4 / 2 is " + new Calculator().divide(4, 2) + ".");
+
     }
 
 }
